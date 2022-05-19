@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daknownfellowz
-- 👀 I’m interested in developing stuff using Java, AngularJs and JavaScript in general
+- 👀 I’m currently developing stuff using Java, AngularJs and JavaScript in general
 - 🌱 I’m currently learning React
 
 <!---
